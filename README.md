@@ -1,3 +1,5 @@
+E-commerce Transactions Analysis
+
 This project presents an Exploratory Data Analysis (EDA) of an E-commerce Transactions Dataset using Python.
 The analysis aims to uncover insights about customer behavior, sales performance, and payment preferences across different regions, age groups, and product categories.
 
